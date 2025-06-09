@@ -15,7 +15,7 @@ This project analyzes book sales, customer behavior, and revenue trends using Po
 * Orders.csv – Contains transaction records.
 
 ## SQL Queries Included
--	1. Retrieve all books in the "Fiction" genre
+-	1.Retrieve all books in the "Fiction" genre
 -	2.Find the books published after the year 1950
 -	3.List all the customers from the canada
 -	4.Show orders placed in November 2023
@@ -23,10 +23,10 @@ This project analyzes book sales, customer behavior, and revenue trends using Po
 -	6.Find the detail of the most expensive book
 -	7.Show all customers who ordered more than 1 quantity of book
 -	8.Retrieve all orders where the total amount exceeds $20
--	9. List all the genres available in the books table
+-	9.List all the genres available in the books table
 -	10.Find the book with the lowest stock
--	11. Calculate the toal revenue generated from all the orders
--	Select sum(total_amount) as total_revenue from orders
+-	11.Calculate the toal revenue generated from all the orders
+-	12.Select sum(total_amount) as total_revenue from orders
 
 -	------------ ****** ADVANCED QUESTIONS ************------------
 -	1.Retrieve the total number of books sold for each genre
